@@ -1,0 +1,319 @@
+/* CSS Document */
+#navbar{
+color:#ef4836;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:20px;
+}
+.picc{background:url(../pics/11344_391855870910789_347470911_n.jpg) 30% 60px no-repeat fixed;
+  background-size: cover;
+  height:600px;
+  -webkit-filter:blur(2px);
+  -moz-filter:blur(2px);
+  -o-fliter:blur(2px);
+  -ms-filter:blur(2px);
+  filter:blur(2px);
+  z-index:-6;
+}
+
+fn h4{
+color:#CCCCCC;
+}
+
+.agenda h3{
+font-size: 1.5em;
+    text-transform: uppercase;
+    color:#EF5858;
+	margin-left:20%;
+	margin-right:10%;
+	padding-top:8%;
+	padding-left:40%;
+	padding-right:5%;
+	margin-top:5%;
+	}
+.footer-section{
+background-color:#0a1327;
+padding-top:80px;
+}
+.footer-section h3{
+color:#cccaca;
+font-size:;
+text-transform:inherit;
+margin-bottom:35px;
+}
+.footer-section .social-link .list-inline>li{
+padding-left:8px;
+padding-right:8px;
+}
+.footer-section .social-link li a{
+display: block;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    border: 1px solid #403939;
+    color: #999999;
+}
+.footer-section .social-link li a:hover{
+background-color:#FFFFFF;
+}
+.footer-section .copyright{
+    display: block;
+    font-size: 12px;
+    line-height: 28px;
+    color: rgb(153, 153, 153);
+    margin-top: 75px;
+    padding: 10px 0px;
+    border-top: 1px solid rgb(72, 70, 70);
+}
+.noti{
+background-color:#f4f4f4;;
+padding:130px 0 100px;
+}
+.secintro{
+margin-bottom:70px;
+}
+h1,h2,h3,h4,h5{
+color:#2f2f2f;;
+font-weight:700;
+text-transform:uppercase;
+margin:0 0 15px;
+}
+h2 {
+    font-size: 32px;
+}
+hr.colored{
+    border-color: #ef4035;
+	margin-left:43%;
+	margin-right:43%;
+}
+.blog-post-wrapper {
+}
+.entry-header{
+}
+.entry-header .entry-title {
+    font-size: 18px;
+    line-height: 28px;
+}
+.blog-content {
+    background-color: #fff;
+    padding: 20px 18px;
+	}
+	.btn-primary:hover{
+	background-color:#FFFFFF;
+	color:#000000;
+	border-color:#000000;
+	}
+	.btn-primary:active{
+	background:#FF0000;
+	color:#000000;
+	border-color:#000000;
+	}
+	.fn{
+	margin-top:5px;
+	margin-bottom:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	background-color:#b93712;;
+	color:#f3f3f3;
+	font-size:18px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+	.fn a {
+    color: #000000;
+    text-decoration: underline;
+	margin-left:3%;
+	padding-left:5%;
+}
+.fn a:hover{
+    color:#FF9900;
+    text-decoration: underline;
+	margin-left:3%;
+	padding-left:5%;
+}
+.trgi{
+margin-top:20px;
+padding:0 50px;
+}
+.trgi image{
+float:left;
+margin-right:35px;
+margin-top:50px;
+border:5px solid #CCCCCC;
+box-shadow:0 2px rgba(0,0,0,0.5); 
+}
+.author
+{
+  float:left;
+  clear:both;
+  margin:8px 8px 8px 8px;
+}
+
+
+ blockquote {
+  display: block;
+  margin: 2.5em 0 2.5em 10.5em;
+  padding: 2em 2.5em 2.75em 5em;
+  background: #fff;
+  font-family: 'Crimson Text';
+  border-left: 0.3em solid #f75528;
+  font-size: 1.5em;
+  font-style: italic;
+  line-height: 1.5;
+  -webkit-box-shadow: 0 0 5px;
+  -moz-box-shadow: 0 0 5px;
+  box-shadow: 0 0 2px rgba(0,0,0,0.5);
+}
+ 
+.tn{
+    margin-top:10px;
+	margin-bottom:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#b93712;;
+	color:#f3f3f3;
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+.home-flexslider{
+margin-bottom:30px;
+}
+.home-flexslider .flexslider{
+border-bottom: 7px solid #000000;
+}
+.home-flexslider .flexslider{
+    border: 7px solid #1d1f2c;
+    border: 7px solid rgba(29, 31, 44, 0.9);
+    background-color: rgba(29, 31, 44, 0.9);
+    width: auto;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+
+.home-flexslider .flexslider .slides{
+overflow:hidden;
+}
+.flexslider .slides{
+zoom:1;
+}
+.slides{
+margin: 0;
+    padding: 0;
+    list-style: none;
+	}
+	.media{
+	border: 1px solid #5d5f57;;
+    border-radius: 7px 7px 7px 7px;
+    padding: 3% 3% 1.7% 3%;
+    min-height: 555px;
+    -webkit-padding-after: 2.5%;
+	margin-bottom:2%;
+}	
+.mediaa{
+	border: 1px solid #5d5f57;;
+    border-radius: 7px 7px 7px 7px;
+	padding: 3% 3% 1.7% 3%;
+    min-height: 555px;
+    -webkit-padding-after: 2.5%;
+	margin-bottom:2%;
+}
+.rightpannel {
+    float: left;
+    width: 49%;
+}
+.leftpanel{
+ float:right;
+    width: 50%;
+	}	
+	#filter {
+    border: 1px solid #ead6d6;;
+    display: inline-block;
+    margin-bottom: 40px;
+    padding: 0;
+    list-style: none;
+}
+	#filter li {
+    float: left;
+    border-right: 1px solid #f0f0f0;
+}
+#filter li a{
+    display: block;
+    padding: 6px 22px;
+    color: #2f2f2f;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#filter li a.active {
+background:#ef4836;
+color:#FFFFFF;
+text-decoration:none
+}
+
+#filter li a:hover{
+text-decoration:blink;
+color:#666666;
+}
+body{
+line-height:25px;
+}
+.ph{
+    background:url(../pics/Best Wallpapers Collection_ Cute girls face Wallpaper.jpg) center center no-repeat #000;
+    background-size: cover;
+}
+.testimonial-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+	
+    padding: 100px 0;
+}
+.portfolio-filter{
+}
+sub-form button {
+    margin-left: 30px;
+    height: 45px;
+    width: 130px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: #ef4836;
+    color: #fff;
+    border-color: transparent;
+}
+@media (max-width: 1024px)
+.banner-grid h3 {
+    padding: 0.4em 0.8em;
+    font-size: 1.3em;
+}
+.banner-grid h3 {
+    background: #4dc47d;
+    color: #fff;
+    padding: 0.5em;
+    border-left: 3px solid #000;
+    font-family: 'Ubuntu-Medium';
+}
+.banner-grid-sec {
+    border: 4px solid #4dc47d;
+    margin-top: 1em;
+    background: #fff;
+    padding: 1em;
+}
+.news-grid {
+    margin-bottom: 11px;
+}
+.riju {
+    border: 2px solid #4dc47d;
+    margin-top: 1em;
+    background: #fff;
+    padding: 1em;
+}
+.newsriju {
+    margin-bottom: 11px;
+}
+@media (max-width: 991px) and (min-width: 768px)
+.col-sm-8{
+width: 100%;
+}
+@media (max-width: 991px) and (min-width: 768px)
+.rj{
+width: 100%;
+}
